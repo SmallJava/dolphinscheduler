@@ -15,6 +15,7 @@ third-party-dependencies.txt
 .classpath
 .project
 **/*.iml
+**/*.class
 *.ipr
 *.iws
 *.tgz
